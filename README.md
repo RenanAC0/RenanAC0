@@ -1,6 +1,6 @@
 ### Olá, sou o Renan
 
-Estou no primeiro semestre de Análise e Desenvolvimento de Sistemas e estudando Python por conta própria pela Alura, em paralelo com a faculdade.
+Estou no Segundo semestre de Análise e Desenvolvimento de Sistemas e estudando HTML e CSS por conta própria pela Alura, em paralelo com a faculdade.
 
 Esse perfil reúne os exercícios e pequenos projetos que venho fazendo enquanto aprendo. Nada aqui é avançado ainda, mas é tudo escrito e entendido por mim.
 
